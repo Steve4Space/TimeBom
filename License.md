@@ -14,7 +14,8 @@ By using this software, you agree to the following terms:
  7. All derivitives based off this software, with exceptions picked by the person behind the original source code, must have their source code public. The exception is if the original person can not be reached by any reasonabple attempts. In this case, the owner of the oldest project makes the decision. If there is no one else described who can play said role, than it is mandatory to have the source ciode public
  8. All redistributions must list what, if anything, they have changed.
  9. By redistributing this software, this license must be distributed within the copy and must be easily accessible through official and acceptible means.
+ 10. You must, within reason, do anything you can do to remove your redistrobution from public access should any of these terms be breached.
 
-You are permitted to redistribute any code from this software, but must credit for any function that may not be obvious otherwise except for the exception described in 7
+You are permitted to redistribute any code from this software, but must credit for any function that may not be obvious otherwise except for the exception described in 7.
 
 THE ORIGINAL SOURCE OF THIS CODE CAN NOT BE HELD ACCOUNTABLE FOR DAMAGES COMING FROM THIRD PARTY REDISTROBUTIONS OR UNINTENDED UDSAGE OF THE SOFTWARE INCLUDING RUNNING ON UNINTENDED HARDWARE.
